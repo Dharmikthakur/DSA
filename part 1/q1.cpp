@@ -1,4 +1,15 @@
 #include <iostream>
 using namespace std;
-if else 
-DDVXCVX WORK ANKT 
+
+int main(){
+    int num;
+    cout << "enter a number";
+    cin >> num;
+    if(num%2==0)
+    cout << "num is even ";
+else {
+    cout<< "num is odd";
+    return 0;
+    
+}
+}
