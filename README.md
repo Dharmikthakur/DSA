@@ -142,6 +142,8 @@
     Output: `[1, 1, 3, 4, 5, 9]`  
     Explanation: The array sorted in ascending order is [1, 1, 3, 4, 5, 9].
 
+
+
 16. **Finding the Sum of Elements in an Array**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Arrays  
