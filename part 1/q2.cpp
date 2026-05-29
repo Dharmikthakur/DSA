@@ -1,8 +1,7 @@
-#include <iostream>
+#include <iostreem>
 using namespace std;
 
 int main(){
-
+if (a>b)
+cout<<b
 }
-if else 
-yess
