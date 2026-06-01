@@ -2,8 +2,11 @@
 using namespace std;
 
  int maain(){
-    for ( me)
-    lift coz
-if a<=b print false 
-yeahhhhh
+
+    int a= 23;
+    int b= 43;
+
+    
+
+
  }
