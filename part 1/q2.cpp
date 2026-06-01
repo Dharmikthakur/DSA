@@ -1,12 +1,6 @@
-#include <iostreem>
+#include <iostream>
 using namespace std;
+int main (){
 
- int maain(){
-
-    int a= 23;
-    int b= 43;
-
-if (a<b)
-followwww for meeee
-
- }
+    
+}
